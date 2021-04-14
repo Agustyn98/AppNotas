@@ -1,0 +1,21 @@
+﻿<Window x:Class="AppNotas.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppNotas"
+        mc:Ignorable="d"
+        Title="Sign In" Height="255" Width="400" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" Icon="icons8-notepad-100.png">
+    <Grid x:Name="grid">
+        <Button x:Name="btnLogIn" Content="Sign In" Click="btnLogIn_Click" FontFamily="Britannic Bold" FontSize="24" FontWeight="Bold" VerticalAlignment="Bottom" Margin="85,0,85,40" Height="67" BorderBrush="Black" BorderThickness="2" Foreground="#FFA41DB9">
+            <Button.Background>
+                <SolidColorBrush Color="#FFF9C2FF" Opacity="0.5"/>
+            </Button.Background>
+        </Button>
+        <Label x:Name="lblLog" Content="&#xD;&#xA;" HorizontalAlignment="Center" Height="33" Margin="0,57,0,0" VerticalAlignment="Top" Width="334" Foreground="#FFBD1FBD" FontSize="16" HorizontalContentAlignment="Center"/>
+        <PasswordBox x:Name="passBox" HorizontalAlignment="Center" Height="34" Margin="0,15,0,0" VerticalAlignment="Top" Width="224" FontSize="20" Padding="0,2,0,0" KeyUp="passBox_KeyUp" BorderBrush="Black" BorderThickness="2"/>
+        <Image x:Name="imageNico2" HorizontalAlignment="Left" Height="199" Margin="299,27,-7,0" VerticalAlignment="Top" Width="102" Source="Yazawa_Nico_Character_Profile_(Pose_1).png" Stretch="UniformToFill" MouseLeftButtonDown="imageNico2_MouseLeftButtonDown"/>
+        <Image x:Name="imageNico1" HorizontalAlignment="Left" Height="189" Margin="0,27,0,0" VerticalAlignment="Top" Width="99" Source="niconiconi123.PNG" Stretch="UniformToFill" MouseLeftButtonDown="imageNico1_MouseLeftButtonDown" RenderTransformOrigin="0.5,0.5" Panel.ZIndex="-5"/>
+
+    </Grid>
+</Window>

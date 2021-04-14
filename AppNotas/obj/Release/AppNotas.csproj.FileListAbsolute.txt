@@ -1,0 +1,402 @@
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Data.SQLite.dll.config
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\AppNotas\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\AppNotas\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Data.SQLite.dll.config
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v1.5\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v1.5 - Copy\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v1.5 - PINS\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.2 DB\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.2 DB - rename - Copy\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v2.3\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.4\AppNotas\obj\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\AppNotas.exe.config
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\AppNotas.pdb
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\EntityFramework.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Buffers.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Collections.Immutable.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Data.SQLite.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Memory.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Numerics.Vectors.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Reflection.Metadata.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\EntityFramework.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Buffers.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Collections.Immutable.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Data.SQLite.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Memory.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Numerics.Vectors.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Reflection.Metadata.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.csprojAssemblyReference.cache
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\MainWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\MainWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\LogInWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\SettingsWindow.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\App.g.cs
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas_MarkupCompile.cache
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas_MarkupCompile.lref
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\LogInWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\SettingsWindow.baml
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.g.resources
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.Properties.Resources.resources
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.csproj.GenerateResource.cache
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.csproj.CopyComplete
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.exe
+C:\Users\agust\source\repos\AppNotas v2.4 - UI2\AppNotas\obj\Release\AppNotas.pdb
